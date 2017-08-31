@@ -1,6 +1,6 @@
 # Telegram Quote Bot
 A Telegram bot that will send you a random quote. 
-Original post about this Telegram bot in Medium: https://medium.com/@dkhd/making-your-bot-talks-2e3ba1900971
+My original post about this Telegram bot in Medium: https://chatbotslife.com/making-your-bot-talks-2e3ba1900971
 
 Usage:
 
